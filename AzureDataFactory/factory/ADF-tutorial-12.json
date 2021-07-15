@@ -1,0 +1,9 @@
+{
+	"name": "ADF-tutorial-12",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2ced4957-a717-4727-9361-0e650e9f12ac",
+		"tenantId": "2ee548e1-6be8-4729-b86e-f482e29d2c9f"
+	}
+}

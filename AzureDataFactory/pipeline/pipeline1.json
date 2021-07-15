@@ -61,6 +61,7 @@
 			},
 			{
 				"name": "Data flow1",
+				"description": "Sth",
 				"type": "ExecuteDataFlow",
 				"dependsOn": [
 					{
@@ -126,6 +127,9 @@
 		],
 		"parameters": {
 			"name": {
+				"type": "string"
+			},
+			"code": {
 				"type": "string"
 			}
 		},
